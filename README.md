@@ -115,4 +115,4 @@ Key visualizations include:
 
 ## Streamlit Application
 
-The project includes a Streamlit app for interactive exploration. [link].
+The project includes a Streamlit app for interactive exploration. 
