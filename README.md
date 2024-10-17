@@ -56,7 +56,7 @@ The datasets used for this project include:
 4. Place the datasets in the data/ folder
 
 ## Project Structure
-
+```
 property-interactions-prediction/
 │
 ├── data/
@@ -80,6 +80,7 @@ property-interactions-prediction/
 ├── README.md
 ├── requirements.txt
 └── streamlit_app.py
+```
 
 ## Usage
 
