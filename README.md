@@ -79,7 +79,7 @@ property-interactions-prediction/
 │
 ├── README.md
 ├── requirements.txt
-└── streamlit_app.py
+└── app.py
 ```
 
 ## Usage
