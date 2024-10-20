@@ -91,7 +91,7 @@ property-interactions-prediction/
     ``` python src/regression_models.py ```
 
 3. You can also explore the project interactively using the Streamlit app:
-    ``` streamlit run streamlit_app.py ```
+    ``` streamlit run app.py ```
 
 ## Modeling Techniques
 
