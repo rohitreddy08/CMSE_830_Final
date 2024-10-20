@@ -116,3 +116,21 @@ Key visualizations include:
 ## Streamlit Application
 
 The project includes a Streamlit app for interactive exploration. 
+
+### **Launching the Streamlit App:**
+
+1. **Ensure All Dependencies Are Installed:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+2. **Run the App:**
+    ```bash
+    streamlit run app.py
+    ```
+
+3. **Interact with the App:**
+    - Upload the required datasets through the app interface.
+    - Explore various visualizations and model evaluations interactively.
+
+---
