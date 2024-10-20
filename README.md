@@ -117,7 +117,12 @@ Key visualizations include:
 
 The project includes a Streamlit app for interactive exploration. 
 
-### **Launching the Streamlit App:**
+### **Access the Deployed Streamlit App:**
+You can access the deployed app via this link:
+
+[Access the Streamlit App](https://cmse830midterm-hfdqwxewd6ygcbdtrzhnxh.streamlit.app/)
+
+### **Launching the Streamlit App Locally:**
 
 1. **Ensure All Dependencies Are Installed:**
     ```bash
