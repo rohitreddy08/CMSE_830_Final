@@ -1,5 +1,5 @@
 # CMSE_830_Midterm
-Midterm project analyzing property interaction data
+Analyzing property interaction data
 
 # Property Interaction Prediction Model
 
