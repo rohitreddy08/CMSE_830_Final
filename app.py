@@ -30,7 +30,7 @@ selection = st.sidebar.radio("Go to", [
 st.sidebar.markdown("""
 ---
 ### 📂 **Download Data Files**
-[GitHub Repository](https://github.com/rohitreddy08/CMSE_830_Midterm/tree/main/Data)
+[GitHub Repository](https://github.com/rohitreddy08/CMSE_830_Final/tree/main/Data)
 """)
 
 # Function to correct corrupted JSON and get count of photos
@@ -245,7 +245,7 @@ if selection == "Introduction":
     ### 🛠 **How to Get Started**
     
     1. **Download Data Files:**
-        - Access the required datasets from the [GitHub Repository](https://github.com/rohitreddy08/CMSE_830_Midterm/tree/main/Data).
+        - Access the required datasets from the [GitHub Repository](https://github.com/rohitreddy08/CMSE_830_Final/tree/main/Data).
     
     2. **Upload Your Data:**
         - Navigate to the **Data Upload** section using the sidebar.
