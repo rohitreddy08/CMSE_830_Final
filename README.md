@@ -120,7 +120,7 @@ The project includes a Streamlit app for interactive exploration.
 ### **Access the Deployed Streamlit App:**
 You can access the deployed app via this link:
 
-[Access the Streamlit App](https://cmse830midterm-hfdqwxewd6ygcbdtrzhnxh.streamlit.app/)
+[Access the Streamlit App](https://propertycustomerinteraction.streamlit.app/)
 
 ### **Launching the Streamlit App Locally:**
 
