@@ -1,4 +1,4 @@
-# CMSE_830_Midterm
+# CMSE_830_Final
 Analyzing property interaction data
 
 # Property Interaction Prediction Model
