@@ -283,6 +283,7 @@ if selection == "Introduction":
     
     **Enjoy exploring, visualizing, modeling, and predicting with your property data!**
     """)
+
 # Data Exploration Section
 elif selection == "Data Exploration":
     st.title("Data Exploration")
