@@ -278,6 +278,9 @@ if selection == "Introduction":
     
     ---
     
+    **Original Dataset Source:**
+    The original dataset used as a reference can be found on [Kaggle](https://kaggle.com/datasets/be721d9b900aded85cb8c3d65ccca61e3929a227a4e1b0141fa197283c4c29b4).
+    
     **Enjoy exploring, visualizing, modeling, and predicting with your property data!**
     """)
 # Data Exploration Section
