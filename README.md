@@ -1,4 +1,4 @@
-# Property Interaction Prediction Model
+# Property Customer Interaction Prediction Model
 
 This project aims to predict property interactions based on historical data and analyze trends in user requests for properties. Various data processing, visualization, and regression modeling techniques are employed to explore the relationships between property features and user interactions.
 
