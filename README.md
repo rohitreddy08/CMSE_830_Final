@@ -1,6 +1,3 @@
-# CMSE_830_Final
-Analyzing property interaction data
-
 # Property Interaction Prediction Model
 
 This project aims to predict property interactions based on historical data and analyze trends in user requests for properties. Various data processing, visualization, and regression modeling techniques are employed to explore the relationships between property features and user interactions.
